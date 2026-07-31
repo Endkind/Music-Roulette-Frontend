@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@import "./css/font.css";
+
+@source './**/*.{vue,ts}';
+
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark;
+}

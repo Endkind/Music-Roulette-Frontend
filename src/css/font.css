@@ -1,0 +1,9 @@
+@import "./font/jetbrains_mono.css";
+
+:root {
+    font-family: "jetbrainsmono", monospace;
+}
+
+body {
+    font-family: "jetbrainsmono", monospace;
+}
